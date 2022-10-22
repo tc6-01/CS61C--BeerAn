@@ -6,5 +6,5 @@ labs and projects are seperated into different repos. you can visit them in foll
 
 > projects 
 
-[] pro1
-[] pro2
+- pro1
+- pro2
