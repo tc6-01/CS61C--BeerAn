@@ -6,6 +6,5 @@ labs and projects are seperated into different repos. you can visit them in foll
 
 > projects 
 
-- [pro1]()
 - [pro2](https://github.com/tc6-01/cs61c-project2)
-- [pro3](https://github.com/tc6-01/cs61c-project3)
+- [pro3](https://github.com/tc6-01/cs61c_project3)
